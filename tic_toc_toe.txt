@@ -1,0 +1,50 @@
+you play first
+_   _   _   
+_   _   _   
+_   _   _   
+your Turn
+enter a number from 1 to 9: 5
+_   _   _   
+_   O   _   
+_   _   _   
+PC Turn
+_   _   _   
+_   O   _   
+X   _   _   
+your Turn
+enter a number from 1 to 9: 7
+invalid input.
+enter again: 5
+invalid input.
+enter again: 6
+_   _   _   
+_   O   O   
+X   _   _   
+PC Turn
+_   _   _   
+X   O   O   
+X   _   _   
+your Turn
+enter a number from 1 to 9: 1
+O   _   _   
+X   O   O   
+X   _   _   
+PC Turn
+O   _   _   
+X   O   O   
+X   _   X   
+your Turn
+enter a number from 1 to 9: 8
+O   _   _   
+X   O   O   
+X   O   X   
+PC Turn
+O   X   _   
+X   O   O   
+X   O   X   
+your Turn
+enter a number from 1 to 9: 3
+O   X   O   
+X   O   O   
+X   O   X   
+Draw
